@@ -1,1 +1,1 @@
-# IoT-Segragator
+# Autonomous IoT-based Sorting Machine
